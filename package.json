@@ -1,0 +1,20 @@
+{
+  "name": "postcss-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "katainaka0503 <katainaka0503@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.5",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {}
+}
